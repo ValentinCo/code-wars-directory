@@ -2,9 +2,9 @@
 
 Facile:
 
-[https://www.codewars.com/kata/contamination-number-1-string](contamination string)
-[https://www.codewars.com/kata/dollars-and-cents](dollars $$)
+[contamination string](https://www.codewars.com/kata/contamination-number-1-string)
+[$$](https://www.codewars.com/kata/dollars-and-cents)
 
 Moyen:
 
-[https://www.codewars.com/kata/parse-float/train/javascript]()
+[Parse](https://www.codewars.com/kata/parse-float/train/javascript)
