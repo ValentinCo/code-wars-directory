@@ -1,4 +1,1 @@
-# code-wars-directory
-
-## Hello world
-
+# code-wars-director
